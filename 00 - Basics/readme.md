@@ -1,5 +1,5 @@
 # Basics
-For a positive headstart, I'll be solving the problems mentioned in the Resources section and I hope to finish these by Sat, 05/03. 
+For a positive headstart, I'll be solving the problems mentioned in the Resources section. 
 
 ## Resources
 - https://github.com/kunal-kushwaha/DSA-Bootcamp-Java/blob/main/assignments/01-flow-of-program.md
