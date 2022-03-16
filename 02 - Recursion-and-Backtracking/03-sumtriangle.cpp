@@ -3,7 +3,7 @@ using namespace std;
 
 void sumtriangle(int a[], int n) {
 
-	if(n<1)
+	if(n < 1)
 		return;
 
 	int temp[n-1];
@@ -32,3 +32,8 @@ int main() {
 	sumtriangle(arr,n);
 	return 0;
 }
+
+/*
+Problem Link:
+https://www.geeksforgeeks.org/sum-triangle-from-array/
+*/
